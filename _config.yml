@@ -1,9 +1,9 @@
 # Basic
-title:  小新
+title:  小莹
 subtitle: 点击头像进入
 # 头像里面的描述
 avatarDesc: 
-url: "https://xxcalm.github.io"
+url: "https://prettyying.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -12,12 +12,12 @@ enableToc: true
 # Social
 social:
     # weibo: 
-    github: xxcalm
-    # zhihu: xxcalm
+    github: prettyying
+    # zhihu: prettyying
     # juejin: xxx
     # jianshu: 
     # twitter: 
-    mail: 3180973612@qq.com
+    mail: 3zhangdianshuai@aliyun.com
 
 
 permalink: /:year/:month/:title/
